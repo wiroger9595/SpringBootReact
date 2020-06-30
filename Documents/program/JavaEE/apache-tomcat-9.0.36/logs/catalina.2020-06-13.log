@@ -1,0 +1,37 @@
+13-Jun-2020 23:49:37.187 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.36
+13-Jun-2020 23:49:37.189 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 3 2020 17:07:09 UTC
+13-Jun-2020 23:49:37.189 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.36.0
+13-Jun-2020 23:49:37.189 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+13-Jun-2020 23:49:37.189 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.5
+13-Jun-2020 23:49:37.190 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+13-Jun-2020 23:49:37.190 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre
+13-Jun-2020 23:49:37.190 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_232-b09
+13-Jun-2020 23:49:37.190 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            AdoptOpenJDK
+13-Jun-2020 23:49:37.190 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36
+13-Jun-2020 23:49:37.190 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36
+13-Jun-2020 23:49:37.195 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/conf/logging.properties
+13-Jun-2020 23:49:37.196 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Jun-2020 23:49:37.196 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Jun-2020 23:49:37.196 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Jun-2020 23:49:37.196 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+13-Jun-2020 23:49:37.196 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+13-Jun-2020 23:49:37.196 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36
+13-Jun-2020 23:49:37.196 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36
+13-Jun-2020 23:49:37.196 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/temp
+13-Jun-2020 23:49:37.196 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/robert/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+13-Jun-2020 23:49:37.466 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Jun-2020 23:49:37.494 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [501] milliseconds
+13-Jun-2020 23:49:37.515 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Jun-2020 23:49:37.515 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.36]
+13-Jun-2020 23:49:37.525 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/webapps/docs]
+13-Jun-2020 23:49:37.757 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/webapps/docs] has finished in [232] ms
+13-Jun-2020 23:49:37.757 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/webapps/manager]
+13-Jun-2020 23:49:37.785 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/webapps/manager] has finished in [28] ms
+13-Jun-2020 23:49:37.785 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/webapps/examples]
+13-Jun-2020 23:49:38.025 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/webapps/examples] has finished in [240] ms
+13-Jun-2020 23:49:38.025 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/webapps/ROOT]
+13-Jun-2020 23:49:38.039 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/webapps/ROOT] has finished in [14] ms
+13-Jun-2020 23:49:38.039 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/webapps/host-manager]
+13-Jun-2020 23:49:38.056 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/webapps/host-manager] has finished in [17] ms
+13-Jun-2020 23:49:38.058 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-Jun-2020 23:49:38.065 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [571] milliseconds

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/lib/catalina-ssi.jar"/>
+	<classpathentry kind="lib" path="/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/lib/ecj-4.15.jar"/>
+	<classpathentry kind="lib" path="/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/lib/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="/Users/robert/Documents/program/JavaEE/apache-tomcat-9.0.36/lib/mysql-connector-java-5.1.34-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/AdoptOpenJDK 8 [1.8.0_232]">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="out/artifacts/HelloWorld_war_exploded/WEB-INF/classes"/>
+</classpath>
